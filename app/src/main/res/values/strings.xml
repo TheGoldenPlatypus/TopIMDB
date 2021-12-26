@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Topify</string>
+    <string name="base_url" translatable="false">https://api.themoviedb.org/3/movie/top_rated?api_key=7d5fcf53afaac4fd471990de5e374437</string>
+
+</resources>
