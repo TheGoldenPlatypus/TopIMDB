@@ -12,7 +12,7 @@
 - Interactive UI in which all the top rated movies are desplayed.
 - Search engine by movie name
 - Sort the movies list by rating/popularity
-l 
+
 
 ## Installation
 
